@@ -13,10 +13,9 @@ Alur Backprop:
 
 
 Alur sistem: 
+
 1.run master_gui.py
-
 2.input citra, klik tombol run
-
 3.fitur glcm yang ditampilkan adalah hasil rata" perhitungan empat sudut glcm
 
 
