@@ -1,0 +1,48 @@
+.navbar-custom {
+    background-color: black;
+}
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: rgba(255,255,255,.8);
+}
+
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+    color: rgba(255,255,255,.5);
+}
+
+
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+    color: rgba(255,255,255,.5);
+}
+
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ffffff;
+}
+
+  padding-top: 54px;
+}
+
+@media (min-width: 1300px) {
+  body {
+    padding-top: 56px;
+  }
+}.carousel-inner{border-top:10px;border-left:10px;border-right:10px;border-bottom:00px;border-color:#e67200;border-style:inset; } 
+
+.carousel-item {
+   width: 100%;
+  height: 65vh;
+  min-height: 150px;
+  background: no-repeat center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
