@@ -22,3 +22,5 @@ Pelaporan : Laporan Obat,Rekam Medis,Pasien,Pembayaran.
 Pembayaran : 1.Lihat/Edit/Hapus Data Pembayaran.
 	     2.Input Data Pembayaran.
 	    
+![Tampilan1](https://github.com/hafidzali04/Project/blob/cd93d48b0401c6c92f94ff87933a547035d549c2/Web/Rawat%20Jalan%20Praktik%20Dokter/3.png)
+![Tampilan1](https://github.com/hafidzali04/Project/blob/cd93d48b0401c6c92f94ff87933a547035d549c2/Web/Rawat%20Jalan%20Praktik%20Dokter/home.png)
